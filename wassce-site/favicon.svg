@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="WASSCE Core Four">
+<rect width="64" height="64" rx="14" fill="#141C24"/>
+<circle cx="24" cy="24" r="9" fill="#D14A76"/>
+<circle cx="40" cy="24" r="9" fill="#5A67D8"/>
+<circle cx="24" cy="40" r="9" fill="#1AA189"/>
+<circle cx="40" cy="40" r="9" fill="#C08028"/>
+</svg>
